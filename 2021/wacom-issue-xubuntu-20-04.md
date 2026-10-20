@@ -1,6 +1,6 @@
 # Wacom Intuos S problems on Xubuntu 20.04 LTS
 
-### Date: 06 April 2021
+### Date: 2021-04-06
 
 I frequently use the Wacom Intuos S graphics tablet in combination with Xournal++ for
 note-taking. Yesterday, I installed Xubuntu 20.04 LTS since the end of life for Xubuntu 18.04 LTS is on April 29, 2021.
